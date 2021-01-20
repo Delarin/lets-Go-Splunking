@@ -24,7 +24,7 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 
 * Upload the following file of the system speeds around the time of the attack.
 
-  ![Speed Test File](./SIEMs_resources_server_speedtest.csv)
+ ![Speed Test File](./SIEMs_resources_server_speedtest.csv)
 
 
 
