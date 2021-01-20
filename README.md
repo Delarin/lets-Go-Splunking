@@ -46,3 +46,4 @@ How long did it take your systems to recover?
 
 ###  Step 1: Solution
 
+![Upload file 1](./Step1/pic1-1.png)
