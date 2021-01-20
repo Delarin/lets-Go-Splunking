@@ -43,3 +43,6 @@ Not only were web servers taken offline by a DDOS attack, but upload and downloa
 Based on the report created, what is the approximate date and time of the attack?
 How long did it take your systems to recover?
 
+
+###  Step 1: Solution
+
